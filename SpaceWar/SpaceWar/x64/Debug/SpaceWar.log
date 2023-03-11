@@ -1,0 +1,12 @@
+﻿  enemy.cpp
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1A\SpaceWar\SpaceWar\enemy.cpp(28,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1A\SpaceWar\SpaceWar\enemy.cpp(34,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1A\SpaceWar\SpaceWar\enemy.cpp(35,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1A\SpaceWar\SpaceWar\main.cpp(44,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1A\SpaceWar\SpaceWar\main.cpp(48,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1A\SpaceWar\SpaceWar\main.cpp(139,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1A\SpaceWar\SpaceWar\main.cpp(139,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1A\SpaceWar\SpaceWar\main.cpp(266,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SpaceWar.vcxproj -> C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1A\SpaceWar\x64\Debug\SpaceWar.exe
